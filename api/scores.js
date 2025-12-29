@@ -40,7 +40,7 @@ export default [{
 	"sourceType": "App\\Models\\Order",
 	"orderNo": "755067202001181805428749",
 	"payment": "50.00",
-	"shopName": "益田假日天地GO店",
+	"shopName": "北京印刷学院店",
 	"client": 1
 }, {
 	"id": 42968209,
@@ -51,7 +51,7 @@ export default [{
 	"sourceType": "App\\Models\\Order",
 	"orderNo": "755067201911061936067634",
 	"payment": "10.00",
-	"shopName": "益田假日天地GO店",
+	"shopName": "北京印刷学院店",
 	"client": 1
 }, {
 	"id": 42967480,
@@ -62,7 +62,7 @@ export default [{
 	"sourceType": "App\\Models\\Order",
 	"orderNo": "755067201911061932051220",
 	"payment": "28.00",
-	"shopName": "益田假日天地GO店",
+	"shopName": "北京印刷学院店",
 	"client": 1
 }, {
 	"id": 40618359,
@@ -84,6 +84,7 @@ export default [{
 	"sourceType": "App\\Models\\Order",
 	"orderNo": "755015201910201229255435",
 	"payment": "33.00",
-	"shopName": "万象天地PINK店",
+	"shopName": "北京印刷学院店",
 	"client": 1
 }]
+
