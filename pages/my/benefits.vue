@@ -11,7 +11,7 @@
 					<image src="/static/images/common/icon_about.png" class="about-icon"></image>
 				</view>
 				<view>
-					<view class="font-size-base">当前GO经验值60/299</view>
+					<view class="font-size-base">当前经验值60/299</view>
 					<view class="process-box">
 						 <progress :percent="60/299*100" border-radius="4px" :stroke-width="4" activeColor="#343434" backgroundColor="#D0D0D0"/>
 					</view>
@@ -178,4 +178,5 @@
 	}
 }
 </style>
+
 
