@@ -64,7 +64,7 @@
 							<view class="h-100 d-flex flex-column align-items-center">
 								<template v-if="!MyCanUseGiftCards.length">
 									<image src="/static/images/my/img_giftcard_empty.png" class="giftcard-empty-img"></image>
-									<view class="tips" style="margin: 50rpx 0;">暂无阿喜有礼</view>
+									<view class="tips" style="margin: 50rpx 0;">暂无</view>
 									<button type="primary" class="font-size-lg" style="padding: 0 80rpx;" @tap="handleTabChange(0)">
 										现在去选购
 									</button>
@@ -291,3 +291,4 @@
 	height: 291rpx;
 }
 </style>
+
